@@ -3,5 +3,5 @@
 __pycache__
 myvenv
 db.sqlite3
-static/* linguist-vendored
+static/
 .DS_Store
